@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
+
 <p align="center">
   <img src="metadata/en-US/images/icon.png?v=2" alt="Redacted icon" width="120" />
 </p>
