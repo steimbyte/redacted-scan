@@ -4,39 +4,6 @@
 
 <img src="https://storage.ko-fi.com/cdn/generated/fhfuc7slzawvi/2026-04-23_rest-162bec27f642a562eb8401eb0ceb3940-onjpojl8.jpg" alt="steimerbyte" style="border-radius: 8px; margin: 16px 0; max-width: 100%;"/>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/steimerbyte)
-
-> ⭐ If you find this useful, consider [supporting me on Ko-fi](https://ko-fi.com/steimerbyte)!
-
-
-
-
-
-<p align="center">
-  <img src="metadata/en-US/images/icon.png?v=2" alt="Redacted icon" width="120" />
-</p>
-
-<h1 align="center">🔴 REDACTED</h1>
-
-<p align="center">
-  <b>Scan. Redact. Protect.</b>
-  <br/>
-  A document scanner with built-in redaction capabilities.
-  <br/><br/>
-  <i>"Redact better than the government did with the Epstein files"</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alephtex/redacted-scan/releases"><img src="https://img.shields.io/github/v/release/alephtex/redacted-scan?logo=github&color=CC0000" /></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/alephtex/redacted-scan?color=white"></a>
-</p>
-
-<h3 align="center">
-  <a href="https://github.com/alephtex/redacted-scan/releases">⬇️ Download APK</a>
-</h3>
-
----
-
 ## 🕵️ About
 
 **Redacted** is a privacy-focused Android document scanner with powerful redaction tools. Scan documents, black out sensitive information, and export as PDF or JPEG — all without internet access.
