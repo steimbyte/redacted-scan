@@ -96,3 +96,9 @@ This project is licensed under the **GNU GPLv3**. See [LICENSE](LICENSE) for det
 <p align="center">
   <b>🔴 CLASSIFIED 🔴</b>
 </p>
+
+---
+
+## Hinweis zur KI-Unterstützung
+
+Bei der Entwicklung dieses Projekts wurden teilweise oder vollständig KI-gestützte Tools und Technologien eingesetzt.
